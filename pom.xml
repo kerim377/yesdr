@@ -65,7 +65,7 @@
 			</plugin>
 
 			<plugin>
-				<groupId>com.google.cloud.tools</groupId>
+				<groupId>com.google.appengine</groupId>
 				<artifactId>appengine-maven-plugin</artifactId>
 				<version>1.9.60</version>
 			</plugin>
